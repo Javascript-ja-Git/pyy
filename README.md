@@ -1,12 +1,12 @@
-# pyy
+# TEST
 koodihalduskoolituse testrepo
----
+
 ---
 ***
 ## katsetan stiile
-__boldi jaoks pane algusesse ja lõppu kaks alakriipsu või tärni__
+**boldi jaoks pane algusesse ja lõppu kaks alakriipsu**
 
-_italic jaoks pane alusesse ja lõppu \* või \__
+*italic jaoks pane alusesse ja lõppu * või _*
 
 ### siit tuleb järjestatud loend
 
@@ -20,3 +20,14 @@ _italic jaoks pane alusesse ja lõppu \* või \__
 - niisama
 - mingi
 - list
+
+### tabel
+
+| Nimi  | Kirjeldus                          | Kood |
+|-|-|-|
+| Õun    | Punane<br>Magus<br>Tervislik     |1|
+| Banaan    | Kollane<br>Pehme<br>Energiarikas |2|
+
+### link
+
+[klõpsa minu peal](https://github.com/orgs/Javascript-ja-Git)
