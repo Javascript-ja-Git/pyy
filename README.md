@@ -1,8 +1,10 @@
 # pyy
 koodihalduskoolituse testrepo
 ---
+---
+***
 ## katsetan stiile
-__boldi jaoks pane algusesse ja lõppu kaks \* või \_ __
+__boldi jaoks pane algusesse ja lõppu kaks alakriipsu või tärni__
 
 _italic jaoks pane alusesse ja lõppu \* või \__
 
